@@ -1,0 +1,4 @@
+{"id":1,"title":"Learn FastAPI","description":"Watch tutorial","completed":false}
+{"id":2,"title":"Buy groceries","description":"Milk and eggs","completed":true}
+{"id":3,"title":"Go to gym","description":"Leg day","completed":false}
+{"id":4,"title":"Study Python","description":null,"completed":false}
